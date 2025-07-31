@@ -2,6 +2,6 @@ import { Router } from "express";
 const router = Router();
 import { getMyDetailsController } from "../controller/myDetailsController.js";
 
-router.get("/thejaashwin/me", getMyDetailsController);
+router.get("/me", getMyDetailsController);
 
 export default router;
