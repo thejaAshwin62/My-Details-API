@@ -1,0 +1,270 @@
+{
+  "personalInfo": {
+    "name": "Theja Ashwin",
+    "profilePicture": "https://res.cloudinary.com/dhhgw0who/image/upload/v1753940785/myimg_jxtylp.jpg",
+    "email": "thejaashwin62@gmail.com",
+    "phone": "9360067452",
+    "location": "India",
+    "citizenship": "Indian",
+    "portfolio": "https://thejaashwin.me",
+    "linkedin": "https://www.linkedin.com/in/theja-ashwin-632367289",
+    "github": "https://github.com/thejaAshwin62",
+    "summary": "I have completed my degree in Computer Science and gained practical experience through several projects. I have a strong interest in technology and always enjoy learning new things. I'm proactive and like to take on new challenges, which helped me win 3rd place in an intercollege hackathon. That experience improved my problem-solving skills and taught me how to work well in a team. Now, I'm excited to use my skills in full stack development and cloud technologies to work on interesting projects and grow as a developer at a company that values innovation."
+  },
+  "education": [
+    {
+      "institution": "Mahendra Institute of Technology",
+      "degree": "BE (Bachelor of Engineering) Computer Science",
+      "period": "2021-2025"
+    },
+    {
+      "institution": "St. John's Matriculation Higher Secondary School",
+      "degree": "Board of Higher Education",
+      "period": "2020-2021"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Web Developer Intern",
+      "company": "Neuron.ai",
+      "period": "Oct 2024 - Nov 2024",
+      "type": "Remote",
+      "description": "Built a teacher-student appointment scheduling app using React, Node.js, Express.js, and MongoDB, ensuring scalability and performance. Prepared project documentation (Wireframe, LLD, HLD) and earned an experience letter for successful project completion."
+    },
+    {
+      "title": "Mobile App Developer",
+      "company": "Imagecon Academy",
+      "description": "Acquired expertise and understanding in Android Studio, Flutter, and Dart Language"
+    }
+  ],
+  "skills": {
+    "languages": ["Core Java", "JavaScript"],
+    "frontEnd": ["ReactJs", "TailwindCSS"],
+    "backEnd": ["SpringBoot", "NodeJs", "ExpressJs"],
+    "tools": [
+      "Git",
+      "GitHub",
+      "Postman",
+      "Docker",
+      "AWS (EB, RDS, ECS)",
+      "Netlify",
+      "Render",
+      "Vercel",
+      "VS Code"
+    ],
+    "databases": ["MongoDB", "PostgreSQL", "SQL"],
+    "orms": ["Prisma ORM", "JPA"],
+    "platforms": ["Unity3D", "Blender"],
+    "learning": ["AI/ML - RAG", "Microservices", "K8s"]
+  },
+  "projects": [
+    {
+      "id": 1,
+      "title": "Mind Sync",
+      "description": "Built a lightweight wearable using ESP32-CAM and LLMs to capture visual data and generate natural language summaries for smart memory recall. Designed for low-power operation, edge-first processing",
+      "image": "https://res.cloudinary.com/dhhgw0who/image/upload/v1753939686/mindsync_otd8dq.png",
+      "technologies": [
+        "MongoDB",
+        "Node.js",
+        "React",
+        "Express",
+        "Tailwind",
+        "Hugging Face"
+      ],
+      "sourceCode": "https://github.com/thejaAshwin62/MindSync",
+      "webLink": "https://mind-sync-eight.vercel.app/"
+    },
+    {
+      "id": 2,
+      "title": "Mock AI Interviewer",
+      "description": "The Mock AI Interviewer enhances interview skills with AI-driven simulations, real-time video integration, and detailed feedback, helping students and freshers.",
+      "image": "https://res.cloudinary.com/dhhgw0who/image/upload/v1753939750/Mock_v0q75v.png",
+      "technologies": ["Next.js", "Tailwind", "Gemini"],
+      "sourceCode": "https://github.com/thejaAshwin62/mock-ai",
+      "webLink": "https://mock-ai-snowy.vercel.app/"
+    },
+    {
+      "id": 3,
+      "title": "AiPPY",
+      "description": "AIpply uses cutting-edge artificial intelligence to help you prepare for interviews, highlight your strengths, and land your dream job.",
+      "image": "https://res.cloudinary.com/dhhgw0who/image/upload/v1753939868/aipply_hi6d8z.png",
+      "technologies": [
+        "Spring",
+        "React",
+        "Node.js",
+        "Express",
+        "Tailwind",
+        "Gemini"
+      ],
+      "sourceCode": "https://github.com/thejaAshwin62/Aippy-Client",
+      "webLink": "https://aipply.onrender.com/"
+    },
+    {
+      "id": 4,
+      "title": "Teachers Connect",
+      "description": "Teacher Connect is a comprehensive web application designed to streamline teacher-student interactions through an efficient appointment scheduling system.",
+      "image": "https://i.ibb.co/YQP0TWn/Screenshot-2024-11-22-223447.png",
+      "technologies": ["MongoDB", "Node.js", "React", "Express", "Tailwind"],
+      "sourceCode": "https://github.com/thejaAshwin62/Teacher_Connect",
+      "webLink": "https://teacher-connect.onrender.com/"
+    },
+    {
+      "id": 5,
+      "title": "Smart Mirror",
+      "description": "Developed a Smart Mirror with real-time data integration using Kali Linux, Features include interactive voice control, weather updates, calendar integration. Demonstrated skills in IoT, software development.",
+      "image": "https://res.cloudinary.com/dhhgw0who/image/upload/v1753939886/Mirror_qfwh8v.jpg",
+      "technologies": ["JavaScript"],
+      "sourceCode": "https://github.com/thejaAshwin62/Smart-Mirror",
+      "webLink": null
+    },
+    {
+      "id": 6,
+      "title": "AR Appliences",
+      "description": "Developed an AR app allows users to visualize home appliances in their space, providing an immersive and interactive experience. Demonstrated expertise in AR development, Unity, and enhancing user engagement through innovative technology",
+      "image": "https://res.cloudinary.com/dhhgw0who/image/upload/v1753939911/AR_juwhyx.png",
+      "technologies": ["Unity"],
+      "sourceCode": null,
+      "webLink": null
+    },
+    {
+      "id": 7,
+      "title": "Odyssey Journey",
+      "description": "My project offers users a seamless experience to book and manage ship events. This platform caters to both event organizers and attendees",
+      "image": "https://res.cloudinary.com/dhhgw0who/image/upload/v1753939966/ship_k1ci90.png",
+      "technologies": ["Tailwind", "Node.js", "Express", "MongoDB", "React"],
+      "sourceCode": "https://github.com/thejaAshwin62/Odyssey-Journey",
+      "webLink": null
+    },
+    {
+      "id": 8,
+      "title": "EA Infinity",
+      "description": "esports_Arena, is a dynamic platform that allows users to book and participate in esports tournaments for popular games,Players can register for matches,The platform features an integrated admin panel.",
+      "image": "https://i.ibb.co/GxtJ5RL/ea.png",
+      "technologies": ["Tailwind", "Node.js", "Express", "MongoDB", "React"],
+      "sourceCode": "https://github.com/thejaAshwin62/EA-Infinity",
+      "webLink": "https://ea-infinity.onrender.com"
+    },
+    {
+      "id": 9,
+      "title": "Jobify",
+      "description": "Job tracking is part of the project management processes within field service operations. It's what you follow to keep an eye on the pipeline of jobs and their statuses.",
+      "image": "https://res.cloudinary.com/dhhgw0who/image/upload/v1753939968/jobify_r4cxyj.png",
+      "technologies": ["Node.js", "MongoDB", "Express", "React"],
+      "sourceCode": "https://github.com/thejaAshwin62/Jobify_MERN",
+      "webLink": "https://jobify-mern-bubi.onrender.com/"
+    },
+    {
+      "id": 10,
+      "title": "Tinger",
+      "description": "I deploy a Basic ReactJS website which extracts news/article body from a URL and uses GPT to summarize (and optionally translate) the article content. Useful for text mining purposes (ScrapeNinja.net).",
+      "image": "https://res.cloudinary.com/dhhgw0who/image/upload/v1753939971/Tinger_okqeoa.jpg",
+      "technologies": ["React", "Gemini"],
+      "sourceCode": "https://github.com/thejaAshwin62/Tinger",
+      "webLink": "https://tinger-finity.netlify.app/"
+    }
+  ],
+  "testimonials": [
+    {
+      "quote": "The Smart Mirror project earned a distinguished third-place finish at the Intercollege Hackathon, a testament to its inventive design and strategic implementation.",
+      "institution": "Mahendra Educational Institutions",
+      "event": "Catch-24 | Hackathon"
+    },
+    {
+      "quote": "My project was selected as one of the top eight teams at the prestigious Indian Cyber Security Hackathon. Recognized for its innovation, technical depth, and real-world applicability, the project stood out among numerous competitive entries from across the country. This achievement reflects a strong commitment to cutting-edge problem-solving and excellence in the field of cybersecurity.",
+      "institution": "Christ University",
+      "event": "ARDC's | CS hackathon"
+    },
+    {
+      "quote": "The AR Appliances project has been selected for the third round of the prestigious Government Hackathon. This advancement reflects the project's innovative use of augmented reality to revolutionize appliance interactions. Recognized for its potential to bring meaningful change, the project has garnered attention for its forward-thinking design",
+      "institution": "MSME Government of India",
+      "event": "MSME | Idea Hackathon"
+    },
+    {
+      "quote": "Acquired in-depth expertise and a comprehensive understanding of HTML, CSS, and JavaScript, mastering the core technologies essential for building dynamic and responsive web applications.",
+      "institution": "Imagecon Academy",
+      "event": "Web Development Intenship"
+    },
+    {
+      "quote": "Gained expertise and a thorough understanding of Android Studio, Flutter, and the Dart programming language, enabling the development of cross-platform mobile applications with seamless user experiences and high performance.",
+      "institution": "Imagecon Academy",
+      "event": "Mobile Application Development Intenship"
+    },
+    {
+      "quote": "Noticed and gained a strong understanding of key concepts within the MERN stack (MongoDB, Express, React.js, and Node.js), enabling the development of full-stack web applications with efficient backend and dynamic, responsive front-end interfaces.",
+      "institution": "Sona college of technology",
+      "event": "Full Stack Development Workshop"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Smart Mirror - 3rd Place",
+      "organization": "Mahendra Educational Institutions",
+      "event": "Catch-24 Hackathon"
+    },
+    {
+      "title": "Top 8 Teams",
+      "organization": "Christ University",
+      "event": "ARDC's Cyber Security Hackathon"
+    },
+    {
+      "title": "Third Round Qualification",
+      "organization": "MSME Government of India",
+      "event": "MSME Idea Hackathon"
+    }
+  ],
+  "certifications": [
+    {
+      "title": "Java Full Stack",
+      "issuer": "TalentNext",
+      "period": "October-December 2024"
+    },
+    {
+      "title": "Web Development Internship",
+      "issuer": "Imagecon",
+      "description": "Full-stack web development focused internship"
+    },
+    {
+      "title": "Docker: The Practical Guide",
+      "issuer": "Udemy",
+      "description": "Comprehensive course on Docker and Kubernetes"
+    },
+    {
+      "title": "Full Stack Development Workshop",
+      "issuer": "Sona College of Technology",
+      "description": "Hands-on workshop covering end-to-end web application development"
+    }
+  ],
+  "languages": ["Tamil", "English"],
+  "interests": [
+    "Web Development Research",
+    "Game Development",
+    "AR/VR",
+    "3D Animation Technologies"
+  ],
+  "contributions": [
+    {
+      "name": "mernboot",
+      "type": "npm-package",
+      "description": "Open source contribution to the Node.js community providing MERN stack development tools and utilities",
+      "repository": "https://github.com/thejaAshwin62/mernboot",
+      "platform": "npm"
+    },
+    {
+      "name": "mernfinity-npm-package",
+      "type": "npm-package",
+      "description": "Open source npm package contributing to the Node.js ecosystem with MERN stack development resources",
+      "repository": "https://github.com/thejaAshwin62/mernfinity-npm-package",
+      "platform": "npm"
+    }
+  ],
+  "socialMedia": [
+    {
+      "platform": "GitHub",
+      "url": "https://github.com/thejaAshwin62"
+    },
+    {
+      "platform": "LinkedIn",
+      "url": "https://www.linkedin.com/in/theja-ashwin/"
+    }
+  ]
+}
